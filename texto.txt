@@ -1,0 +1,1 @@
+Ao iniciar os trabalhos com Node.js, rapidamente nota-se que mesmo o mais simples dos códigos acaba viabilizando muitas funcionalidades. Mesmo que você seja iniciante, com poucas linhas de código conseguirá criar aplicações de troca de mensagens entre clientes e servidor, como o exemplo mais clássico de aplicações em tempo real, um chat.
